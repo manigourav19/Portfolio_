@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Weatherly Android",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Instagram Clone MERN",
+    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+   
+    "category": "mern",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/RiteshBhoy/instagramclone"
+    }
+  },
+  {
+    "name": "Real Time Device Tracking MERN",
+    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+   
+    "category": "mern",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/RiteshBhoy/instagramclone"
+    }
+  },
+  {
+    "name": "Inventory Management System",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/RiteshBhoy/InventoryManagementSystem",
+      "code": "https://github.com/RiteshBhoy/InventoryManagementSystem"
+    }
+  },
+  {
+    "name": "React-Projects",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/RiteshBhoy"
+    }
+  },
+  {
+    "name": "Library Management System Java",
+    "desc": "Library Management System LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+   
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/RiteshBhoy/LibraryManagementSystem",
+      "code": "https://github.com/RiteshBhoy/LibraryManagementSystem"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+   
+    "category": "basicweb",
+    "links": {
+      "view": "https://riteshbhoy.github.io/javascript_animation/",
+      "code": "https://github.com/RiteshBhoy/javascript_animation"
+    }
+  },
+
+  {
+    "name": "Tic-Tac-Toe",
+    "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
+    
+    "category": "mern",
+    "links": {
+      "view": "https://riteshbhoy.github.io/Tic-Tac-Toe/",
+      "code": "https://github.com/RiteshBhoy/Tic-Tac-Toe"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": "https://github.com/RiteshBhoy/Portfolio"
+    }
+  }
+]
